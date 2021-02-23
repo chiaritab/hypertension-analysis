@@ -1,3 +1,3 @@
 # hypertension-analysis
-Analysis based on the following dataset on kaggle.com: 
-chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/onetab.html
+Analysis done with jupyter notebook, based on the following dataset on kaggle.com: 
+https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
